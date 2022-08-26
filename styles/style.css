@@ -23,31 +23,31 @@ svg {
     height: 100vh;
 }
 
-.images-parallax__item {
+.layer {
     position: absolute;
 }
 
-.images-parallax__item--1 {
+.layer--1 {
     top: 10%;
     left: 20%;
 }
 
-.images-parallax__item--2 {
+.layer--2 {
     top: 45%;
     right: 10%;
 }
 
-.images-parallax__item--3 {
+.layer--3 {
     bottom: 15%;
     left: 43%;
 }
 
-.images-parallax__item--4 {
+.layer--4 {
     bottom: 24%;
     right: 38%;
 }
 
-.images-parallax__item--5 {
+.layer--5 {
     bottom: 65%;
     left: 50%;
 }
